@@ -1,2 +1,2 @@
-# Full-Stack-itProger
- Home work: Versions control Git 
+# My First Project with W3.CSS
+ MyBlog / Toshiro 
