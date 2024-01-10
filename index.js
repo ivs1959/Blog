@@ -1,3 +1,3 @@
 const button = document.getElementById("readmore");
 
-button = onclick.alert("YOU CLICK ON ME!);
+button = onclick.alert("YOU CLICK ON ME!");
